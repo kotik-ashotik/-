@@ -1,0 +1,55 @@
+body {
+    background-image: url(https://staticg.sportskeeda.com/editor/2024/04/ae957-17143236140094-1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.c1 {
+    background-color: black;
+    width: 700px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 2px solid rgb(0, 81, 255);
+    img {
+        height: 500px;
+        width: 100%;
+        border: 3px solid red;
+    }
+    h1 {
+        color: #fff;
+    }
+}
+
+.c2 {
+    background-color: blue;
+    width: 500px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 2px solid rgb(0, 81, 255);
+    img {
+        height: 700px;
+        width: 100%;
+        border: 3px solid red;
+    }
+    h1 {
+        color: #fff;
+    }
+}
+
+.c3 {
+    background-color: rgb(255, 89, 0);
+    width: 700px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 2px solid rgb(0, 81, 255);
+    img {
+        height: 600px;
+        width: 100%;
+        border: 3px solid red;
+    }
+    h1 {
+        color: #fff;
+    }
+}

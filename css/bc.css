@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://lh6.googleusercontent.com/CF19bkN1O3hAwOMkyJqL9Wwj2Dqd2yZMotG-aoihTkn1kzkzrKM1hcuIkT8GbGSX-QodxLFYvzDR2qO7m8tK8pTA9gKd9imXzxDrcEzY5o6sAWDpGMxgig5J8luiErcbvByJY8hCecuBSqMTvm3uVA);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+div {
+    background-color: rgb(255, 0, 0);
+    width: 700px;
+    padding: 10px;
+    margin: auto;
+    border: 5px solid rgb(255, 85, 0)
+}
+
+img {
+    width: 100%;
+}
